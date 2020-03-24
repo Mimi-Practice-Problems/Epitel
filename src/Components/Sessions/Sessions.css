@@ -2,6 +2,13 @@
 .main {
   display: flex;
 }
+
+h2 {
+  font-family: Myriad Pro;
+  font-size:25px;
+  color: #818181;
+  margin-left: 0px;
+}
 /** DROPDOWN MENU **/
 /* Fixed sidenav, full height */
 .sidenav {
@@ -11,16 +18,17 @@
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
+  background-color: #001B71;
   overflow-x: hidden;
   padding-top: 20px;
+  font-family: Myriad Pro;
 }
 
 /* Style the sidenav links and the dropdown button */
 .sidenav a, .dropdown-btn {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 22px;
   color: #818181;
   display: block;
   border: none;
@@ -29,6 +37,8 @@
   text-align: left;
   cursor: pointer;
   outline: none;
+  /* font-family: Myriad Pro; */
+
 }
 
 /* On mouse-over */
@@ -61,13 +71,6 @@
   float: right;
   padding-right: 8px;
 }
-
-/**SESSION INFO**/
-.session-info{
-  width: 88vw;
-  height: 93vh;
-}
-
 /** SESSION HEADER **/
 .sessions-header {
   text-align: center;
@@ -75,22 +78,31 @@
   font-weight: bold;
 }
 
+/**SESSION INFO**/
+.session-info{
+  width: 89vw;
+  height: 93vh;
+}
+
 /** SESSION BOXES */
 .session-info {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-around;
   border: orange;
   border-style: solid;
   border-width: 5px;
 }
 .box {
-  border: purple;
+  /* border: purple; */
   border-style: solid;
   border-width: 5px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 10px #939597;
   font-size: 30px;
   width: 300px;
   height: 300px;
-  margin-top: 40px;
-  margin-left: 50px;
-  
+  margin-top: 55px;
+  margin-left: 20px;
+  margin-right: 20px;
 }

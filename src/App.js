@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import Sessions from "./Components/Sessions/Sessions";
+import routes from './routes';
 import './App.css';
 
 const sessionData = {
@@ -23,7 +24,8 @@ function App() {
 
   return (
     <div className="App">
-      <Sessions data={sessionData}/>
+      {routes}
+      {/* <Sessions data={sessionData}/> */}
     </div>
   );
 }

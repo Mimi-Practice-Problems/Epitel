@@ -1,0 +1,122 @@
+[
+  {
+    "device_serial_id": 1,
+    "name": "Mike Smith",
+    "start": "1530",
+    "end": "1600",
+    "last_time_data_collected": "1600",
+    "patient_location": "IHC"
+  },
+  {
+    "device_serial_id": 2,
+    "name": "Betty Anderson",
+    "start": "1600",
+    "end": "1630",
+    "last_time_data_collected": "1630",
+    "patient_location": "IHC"
+  },
+  {
+    "device_serial_id": 3,
+    "name": "Ashley Wright",
+    "start": "1630",
+    "end": "1700",
+    "last_time_data_collected": "1700",
+    "patient_location": "IHC"
+  },
+  {
+    "device_serial_id": 4,
+    "name": "John Doe",
+    "start": "1700",
+    "end": "1730",
+    "last_time_data_collected": "1730",
+    "patient_location": "IHC"
+  },
+  {
+    "device_serial_id": 5,
+    "name": "Jane Doe",
+    "start": "1830",
+    "end": "1900",
+    "last_time_data_collected": "1900",
+    "patient_location": "IHC"
+  },
+  {
+    "device_serial_id": 6,
+    "name": "Paul Brown",
+    "start": "1930",
+    "end": "2000",
+    "last_time_data_collected": "2000",
+    "patient_location": "IHC"
+  },
+  {
+    "device_serial_id": 7,
+    "name": "Sara Bills",
+    "start": "1230",
+    "end": "1300",
+    "last_time_data_collected": "1300",
+    "patient_location": "IHC"
+  },
+  {
+    "device_serial_id": 8,
+    "name": "Sally Peterson",
+    "start": "1300",
+    "end": "1350",
+    "last_time_data_collected": "1350",
+    "patient_location": "IHC"
+  },
+  {
+    "device_serial_id": 9,
+    "name": "Jason Andersen",
+    "start": "1200",
+    "end": "1230",
+    "last_time_data_collected": "1230",
+    "patient_location": "IHC"
+  },
+  {
+    "device_serial_id": 10,
+    "name": "Amy Smith",
+    "start": "1530",
+    "end": "1600",
+    "last_time_data_collected": "1600",
+    "patient_location": "IHC"
+  },
+  {
+    "device_serial_id": 11,
+    "name": "Jason Andersen",
+    "start": "1200",
+    "end": "1230",
+    "last_time_data_collected": "1230",
+    "patient_location": "IHC"
+  },
+  {
+    "device_serial_id": 12,
+    "name": "Jason Andersen",
+    "start": "1200",
+    "end": "1230",
+    "last_time_data_collected": "1230",
+    "patient_location": "IHC"
+  },
+  {
+    "device_serial_id": 13,
+    "name": "Jason Andersen",
+    "start": "1200",
+    "end": "1230",
+    "last_time_data_collected": "1230",
+    "patient_location": "IHC"
+  },
+  {
+    "device_serial_id": 14,
+    "name": "Jason Andersen",
+    "start": "1200",
+    "end": "1230",
+    "last_time_data_collected": "1230",
+    "patient_location": "IHC"
+  },
+  {
+    "device_serial_id": 15,
+    "name": "Jason Andersen",
+    "start": "1200",
+    "end": "1230",
+    "last_time_data_collected": "1230",
+    "patient_location": "IHC"
+  }
+]
